@@ -17,7 +17,7 @@ import { Iconify } from 'src/components/iconify';
 // ----------------------------------------------------------------------
 
 const API_URL = 'http://localhost:9007/';
-const JWT_TOKEN = 'GU8thH_92bV_wOEvgv6RkzJRLS3n416dOWjn-x';
+const JWT_TOKEN = '123-x';
 // Set `RestLink` with your endpoint
 const restLink = new RestLink({ uri: API_URL });
 
